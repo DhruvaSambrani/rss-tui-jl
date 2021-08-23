@@ -1,0 +1,8 @@
+[deps]
+AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
+DefaultApplication = "3f0dd361-4fe0-5fc6-8523-80b14ec94d85"
+Gumbo = "708ec375-b3d6-5a57-a7ce-8257bf98657a"
+LightXML = "9c8b4983-aa76-5018-a973-4c85ecc9e179"
+TerminalMenus = "dc548174-15c3-5faf-af27-7997cfbde655"
+TerminalPager = "0c614874-6106-40ed-a7c2-2f1cd0bff883"
+TerminalUserInterfaces = "408767e4-586b-40c7-9657-f9758988469a"
